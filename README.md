@@ -1,4 +1,4 @@
-# Final Project CS225 Spring 2021
+# **Airports Database** **Visualization and Shortest Routes Finding (C++)**
 
 ## project description
 
@@ -6,11 +6,11 @@ In the final project, we used airports around the world and their distances to e
 
 ## Contributors
 
+**Zhijia Li** (NetID: zhijia2)
+
 **Zhichao Fan** (NetID: zhichao8)
 
 **Qi Chen** (NetID: qic7)
-
-**Zhijia Li** (NetID: zhijia2)
 
 
 ## Document files
@@ -36,5 +36,3 @@ using the following command to compile:
 make test
 ./test
 ```
-## visualization result
-![output](output.png)
